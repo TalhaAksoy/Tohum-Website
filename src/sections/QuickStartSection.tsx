@@ -46,7 +46,6 @@ export default function QuickStartSection() {
 					</div>
 				</div>
 			</section>
-			1
 		</>
 	)
 }
